@@ -3,6 +3,7 @@ sudo yum update
 sudo yum install git -y
 sudo yum install go -y
 sudo yum install vim -y
+sudo yum install automake -y
 
 BASH_CONFIG=/home/vagrant/.bash_profile
 GOPATH=/home/vagrant/dev
